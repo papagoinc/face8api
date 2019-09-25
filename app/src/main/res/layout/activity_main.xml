@@ -29,14 +29,14 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="faceCompare"
+        android:onClick="imgPickerCompare"
         android:text="人臉比對" />
 
     <Button
         android:id="@+id/button5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="faceSearch"
+        android:onClick="imgPickerSearch"
         android:text="人臉搜尋" />
 
     <Button
