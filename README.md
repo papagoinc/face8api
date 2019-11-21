@@ -52,11 +52,11 @@ Fuction
 
 [Facial API] - 主要提供 人臉偵測、人臉比對以及人臉搜尋等功能。
 
-*FACE8_API_FACEDETECT* : *人臉比對*
+*FACE8_API_FACEDETECT* : *人臉偵測*
 
-*FACE8_API_FACECOMPARE* : *人臉搜尋*
+*FACE8_API_FACECOMPARE* : *人臉比對*
 
-*FACE8_API_FACESEARCH* : *人臉偵測*
+*FACE8_API_FACESEARCH* : *人臉搜尋*
 
 
 SDK Version
